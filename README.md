@@ -6,3 +6,5 @@ Este repositório vai guardar todos os exercicios do manual de programação em 
 ## Parte 2 - Funções, vectores e recursão;
 ## Parte 3 - Memória, estruturas e ficheiros.
 
+Luis
+
